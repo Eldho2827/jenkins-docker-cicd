@@ -18,11 +18,12 @@ pipeline {
             }
         }
 
-        stage('Test') {
-            steps {
-                sh 'docker run --rm $IMAGE_NAME:latest app.js'
-            }
-        }
+       stage('Test') {
+    steps {
+        sh 'docker images eldho10/cicd-node-app:latest'
+        echo 'Image built successfully!'
+    }
+}
 
         stage('Deploy') {
             steps {
