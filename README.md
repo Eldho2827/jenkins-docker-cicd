@@ -212,9 +212,10 @@ docker pull eldho10/cicd-node-app:latest
 - Running containerized applications on AWS EC2
 
 ---
-
 ## 👤 Author
 
 **Eldho Sabu**  
 AWS DevOps Enthusiast | IT Graduate  
-[GitHub](https://github.com/Eldho2827) | [LinkedIn](#)
+[GitHub](https://github.com/Eldho2827) | [LinkedIn](https://www.linkedin.com/in/eldhosabu08)
+
+
