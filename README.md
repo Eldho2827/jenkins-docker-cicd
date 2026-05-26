@@ -190,16 +190,16 @@ docker pull eldho10/cicd-node-app:latest
 ## 🖥️ Screenshots
 
 ### Jenkins Pipeline — All Stages Passed
-![Pipeline Success](screenshots/Screenshots/pipeline-success.png)
+![Pipeline Success](screenshots/pipeline-success.png)
 
 ### Console Output
-![Console Output](screenshots/Screenshots/console-output.png)
+![Console Output](screenshots/console-output.png)
 
 ### Docker Hub — Image Pushed
-![Docker Hub](screenshots/Screenshots/dockerhub.png)
+![Docker Hub](screenshots/dockerhub.png)
 
 ### GitHub Webhook — Delivered
-![Webhook](screenshots/Screenshots/webhook.png)
+![Webhook](screenshots/webhook.png)
 
 ---
 
