@@ -1,4 +1,3 @@
-# jenkins-docker-cicd
 # CI/CD Pipeline with Jenkins & Docker
 
 A complete end-to-end CI/CD pipeline that automatically builds, tests, deploys, and pushes a Node.js application using Jenkins, Docker, and GitHub — hosted on AWS EC2.
@@ -191,16 +190,16 @@ docker pull eldho10/cicd-node-app:latest
 ## 🖥️ Screenshots
 
 ### Jenkins Pipeline — All Stages Passed
-![Pipeline Success](screenshots/pipeline-success.png)
+![Pipeline Success](pipeline-success.png)
 
 ### Console Output
-![Console Output](screenshots/console-output.png)
+![Console Output](console-output.png)
 
 ### Docker Hub — Image Pushed
-![Docker Hub](screenshots/dockerhub.png)
+![Docker Hub](dockerhub.png)
 
 ### GitHub Webhook — Delivered
-![Webhook](screenshots/webhook.png)
+![Webhook](webhook.png)
 
 ---
 
@@ -218,4 +217,4 @@ docker pull eldho10/cicd-node-app:latest
 
 **Eldho Sabu**  
 AWS DevOps Enthusiast | IT Graduate  
-[GitHub](https://github.com/Eldho2827) | [LinkedIn](https://www.linkedin.com/in/eldhosabu08)
+[GitHub](https://github.com/Eldho2827) | [LinkedIn](#)
