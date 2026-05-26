@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "your-dockerhub-username/cicd-node-app"
+        IMAGE_NAME = "eldho10/cicd-node-app"
     }
 
     stages {
